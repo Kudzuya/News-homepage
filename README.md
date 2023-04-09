@@ -1,5 +1,5 @@
 # News-homepage
-Challenge on https://www.frontendmentor.io/
+Challenge by https://www.frontendmentor.io/
 
 Challenge done , mobile version was defficult 
 Side bar menu>> https://codepen.io/Kudzuya/pen/LYJovjz
